@@ -1,0 +1,13 @@
+.h2{
+color: blue;
+}
+
+.s1{
+    color:brown;
+}
+
+.image-fluid{
+    max-width: 100%;
+    height: auto;
+}
+

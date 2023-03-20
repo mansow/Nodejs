@@ -1,0 +1,24 @@
+<br>
+<div class="card mx-auto s1">
+    <div class="card-header text-center">USER LOGIN </div>
+    <br>
+    <form [formGroup]="myForm" class="was-validated" (ngSubmit)="log(myForm.value)">
+        <div class="col-md-10 mx-3">
+            <input type="text" name="username" formControlName="username" class="form-control"
+             placeholder="username"
+                required>
+            <br>
+        </div>
+        <div class="col-md-10 mx-3">
+            <input type="password" name="password" formControlName="password" class="form-control"
+                placeholder="password" required="true">
+            <br>
+        </div>
+        <div class="col-md-10 mx-3">
+            <input type="email" name="email" formControlName="email" class="form-control"
+                placeholder="example@gmail.com" required="true"><br>
+        </div>
+        <button type="button" class="btn btn-primary mx-3" type="submit">Login</button>
+    </form>
+    <br>
+</div>

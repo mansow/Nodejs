@@ -1,0 +1,37 @@
+[
+    {
+        "Studentname": "Sowmya",
+        "age": 21,
+        "course_enrolled": "maths",
+        "phone": 78965790,
+        "location": "Chennai"
+    },
+    {
+        "Studentname": "Divya",
+        "age": 22,
+        "course_enrolled": "physics",
+        "phone": 89076589,
+        "location": "Banglore"
+    },
+    {
+        "Studentname": "Pradeepa",
+        "age": 18,
+        "course_enrolled": "chemistry",
+        "phone": 67890650,
+        "location": "Chennai"
+    },
+    {
+        "Studentname": "Deepak",
+        "age": 19,
+        "course_enrolled": "bio-chemistry",
+        "phone": 78945634,
+        "location": "Kolkata"
+    },
+    {
+        "Studentname": "Kaushik",
+        "age": 29,
+        "course_enrolled": "Graphics",
+        "phone": 24645632,
+        "location": "Delhi"
+    }
+]
